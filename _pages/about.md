@@ -28,7 +28,7 @@ redirect_from:
 
 <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> `1 Oct. 2023 to Present`
 
-<i class="fa-solid fa-school"></i> *Teacher of Computational Biology for the master degree in Bioinformatics at the University of Rome Tor Vergata* (Rome, Italy).
+<i class="fa-solid fa-building-columns"></i> *Teacher of Computational Biology for the master degree in Bioinformatics at the University of Rome Tor Vergata* (Rome, Italy).
 
 <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> `1 Nov. 2022 to Present`
 
