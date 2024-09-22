@@ -26,10 +26,6 @@ redirect_from:
 
 ## <i class="fa-solid fa-user-tie"></i> Current position
 
-<i class="fa fa-fw fa-calendar" aria-hidden="true"></i> `1 Oct. 2023 to Present`
-
-<i class="fa-solid fa-building-columns"></i> *Teacher of Computational Biology for the master degree in Bioinformatics at the University of Rome Tor Vergata* (Rome, Italy).
-
 <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> `1 Nov. 2022 to Present`
 
 <i class="fa-solid fa-building-columns"></i> *Postdoctoral Researcher at the University of Rome Tor Vergata* (Rome, Italy). 
@@ -37,6 +33,10 @@ redirect_from:
 <i class="fa-solid fa-people-group"></i> Reporting to Prof. Manuela Helmer-Citterich and Prof. Pier Federico Gherardini.
 
 Development of bioinformatics methods for RNA omics data analysis
+
+<i class="fa fa-fw fa-calendar" aria-hidden="true"></i> `1 Oct. 2023 to Present`
+
+<i class="fa-solid fa-building-columns"></i> *Teacher of Computational Biology for the master degree in Bioinformatics at the University of Rome Tor Vergata* (Rome, Italy).
 
 ## <i class="fa-solid fa-magnifying-glass"></i> Collaborations
 
